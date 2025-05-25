@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "express-jwt": "^8.5.1",
+    "install": "^0.13.0",
+    "jsonwebtoken": "^9.0.2",
+    "parser": "^0.1.4"
+  },
+  "devDependencies": {
+    "@types/jsonwebtoken": "^9.0.9"
+  }
+}
